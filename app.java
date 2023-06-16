@@ -4,8 +4,8 @@ java applications
 NodeJS applications
 python applications
 web applications
-<<<<<<< HEAD
+bug removed 
+great
+this application is excellent
+this application is excellent for all users
 
-=======
-bug remove
->>>>>>> 67154ee427e3db806d9ed4d9219cbf4ad4fc6fdf
